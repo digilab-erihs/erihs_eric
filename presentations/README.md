@@ -21,7 +21,7 @@ Copyright:
 File: [link]()
 
 
-### Presentation xx:
+### Presentation DIGILAB ​- State of the art: Polish, French, Italian developments
 
 Presentation Title: DIGILAB ​- State of the art: Polish, French, Italian developments.
 
