@@ -27,7 +27,7 @@ Presentation Title: DIGILAB ​- State of the art: Polish, French, Italian devel
 
 Authors:
 
-Topic and description: Objective: This presentation serves as a basis of discussion on how to align our national initiatives/projects with the DIGILAB development at the EU level​. It is composed of 
+Topic and description: Objective: This presentation serves as a basis of discussion on how to align our national initiatives/projects with the DIGILAB development at the EU level​. It is composed of: 
 - Introduction​,
 - Polish national project: introduction and scope of the project​,
 - E-RIHS DIGILAB State of the art​,
