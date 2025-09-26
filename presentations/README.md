@@ -1,18 +1,26 @@
-# Presentations
+# Bibliography, references, and presentations
+
+## Bibliography
+
+Virgili, Vania. 2025. “E-RIHS: From Physical to Digital Services. Evolving Access Pathways.” _Digital Heritage Conference 2025_ (Siena, Italy), October.
+
+Virgili, Vania. 2025. “Advancing Heritage Science: European Breakthrough Initiatives Driving Digital Innovation in Cultural Heritage.” _Archiving 2025_ (Granada, Spain), June.
+E-RIHS
+
+
+## Internal Presentations
 
 This section of the repo is dedicated to the presentations.
 
-# List of presentations:
+### List of presentations:
 
-### Presentation xx:
+#### **template** Presentation xx:
 
 Presentation Title:
 
 Authors:
 
 Topic and description: 
-
-
 
 Date:
 
@@ -21,7 +29,7 @@ Copyright:
 File: [link]()
 
 
-### Presentation DIGILAB ​- State of the art: Polish, French, Italian developments
+#### Presentation DIGILAB ​- State of the art: Polish, French, Italian developments
 
 Presentation Title: DIGILAB ​- State of the art: Polish, French, Italian developments.
 
