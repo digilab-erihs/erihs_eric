@@ -14,6 +14,23 @@ File: [link]()
 
 #### Presentation:
 
+Presentation Title: **HSportal, instance of OntoPortal for the Heritage Science community**
+
+Author(s): Anaïs Guillem
+
+Topic and description: Heritage Science Ontoportal, Digilab-EU, Opentheso, Semantic Artefact, Semantic Artefact Catalogue
+
+Date: 2025/09/30
+
+Copyright: CC-BY-ND
+
+File: [link](https://github.com/digilab-erihs/erihs_eric/blob/main/presentations/Digilab_Clinic_presentations/2025-09-30_Guillem_HSportal_2025_workshop_OntoPortal_Berlin.pdf)
+
+
+
+
+#### Presentation:
+
 Presentation Title: **Introducing the Heritage Science Data Service**
 
 Author(s): Julian Richards
