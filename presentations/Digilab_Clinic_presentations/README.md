@@ -24,6 +24,6 @@ Date: 2025/10/10
 
 Copyright: 
 
-File: [link]()
+File: [link](presentations/Digilab_Clinic_presentations/2025-10-10_Richards_HSDS.pdf)
 
 
