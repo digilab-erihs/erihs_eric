@@ -12,7 +12,7 @@ Copyright:
 
 File: [link]()
 
-#### **Presentation:
+#### Presentation:
 
 Presentation Title: Introducing the Heritage Science Data Service
 
