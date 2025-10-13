@@ -45,6 +45,10 @@ Pour faire le TD, il faut :
 
 
 ## Workshop plan:
+
+The participants (18-20) will be divided into 5-6 groups working independently at separate tables on different use cases (lien).
+Two projectors are needed: one will be used for the presentation. The second will be used for displaying HERIe as well as presenting results by the groups.
+
 The workshop is composed of 3 parts:
 ### Part one (xxx, 10:00-18:00)
 - Welcome and introduction
@@ -89,7 +93,14 @@ One way of looking is comparing the predicted losses due to fire with another la
 Participants will be asked to decide about the climate control in the museum in a historic building being renovated. Each group will make a decision in a different context: a historic house museum with limited resources, a painting gallery supported by rich sponsors, a mixed collection museum in a country actively pursuing sustainability policies, a museum in a developing country adopting practices from the leading museums, tbd.
 The participants will be asked to follow the steps as described in the ASHRAE chapter and evaluate environmental risks.
 - Feedback and next steps 
- 
+
+## Workshop Use cases (ie. groups)
+Group 1 – City Museum
+Group 2 – university museum
+Group 3 – museum in town affected by crisis
+Group 4 – a leading museum asked for help to an important museum in a developing country in designing a climate control strategy
+Group 5 – modern painting gallery in a state actively acting against climate change
+
 
 ## Workshop learning outcomes:
 
@@ -111,8 +122,7 @@ Please register on the HERIe platform, HERIe.pl, and upload the provided files c
 
 https://herie.pl/
 
-The participants (18-20) will be divided into 5-6 groups working independently at separate tables.
-Two projectors are needed: one will be used for the presentation. The second will be used for displaying HERIe as well as presenting results by the groups.
+
 We need a WiFi connection.
 
 
