@@ -139,7 +139,8 @@ We need a WiFi connection.
 
 - Dépôt Gitlab et Documentation : [link]()
 
-- 
+- Course material archive:
+Bratasz, Łukasz, Magdalena Sobon, Michal Lukomski, and Sonia Bujok. “Herie - Preventive Conservation Platform for Decision Support”. January 29, 2025. https://doi.org/10.5281/zenodo.14760808.
 
 
 # Datasets: teaching material repository 
