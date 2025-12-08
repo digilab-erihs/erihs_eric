@@ -48,6 +48,11 @@ The learning module is online and the learning process does not require an in-pr
 The workshop is composed of x parts:
 
 ### Part one: Login and getting familiarized with the User Interface and the platform
+
+Platform description
+
+PLatform access
+
 Login 
 
 user account and information
