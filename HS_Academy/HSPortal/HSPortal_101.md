@@ -43,14 +43,21 @@ Pour faire le TD, il faut :
 
 ## Workshop plan:
 
-The participants (18-20) will be divided into 5-6 groups working independently at separate tables on different use cases (lien).
-Two projectors are needed: one will be used for the presentation. The second will be used for displaying...as well as presenting results by the groups.
+The learning module is online and the learning process does not require an in-presence class.
 
 The workshop is composed of x parts:
-### Part one (xxx, 10:00-18:00)
+
+### Part one: Login and getting familiarized with the User Interface and the platform
+Login 
+
+user account and information
+
+interface components and functionalities
 
 
-### Part two
+### Part two: leanring how to...
+
+
 ## Workshop Use cases (ie. groups)
 
 
